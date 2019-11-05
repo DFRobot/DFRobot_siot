@@ -18,8 +18,11 @@ Then input the information of mqtt server.<br>
 
 ## Installation
 
-Clone this library and run the example on Python and mpython.<br>
-The other way,imput"pip3 siot"on Python and run example.<br>
+Clone this library and run the example on Python or mpython.<br>
+The other way,on Python3.4 or higher version.<br>
+```Python
+pip install siot
+```
 
 ## Credits
 
