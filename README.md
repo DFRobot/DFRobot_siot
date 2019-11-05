@@ -8,7 +8,6 @@ DFRobot provide a solution of SIoT on python and mpython.<br>
 
 * [Summary](#summary)
 * [Installation](#installation)
-* [Compatibility](#compatibility)
 * [Credits](#credits)
 <snippet>
 <content>
